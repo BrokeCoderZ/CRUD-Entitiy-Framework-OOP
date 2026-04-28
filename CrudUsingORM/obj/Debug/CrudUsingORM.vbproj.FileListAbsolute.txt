@@ -1,0 +1,14 @@
+c:\users\welcome\documents\visual studio 2015\Projects\CrudUsingORM\CrudUsingORM\bin\Debug\CrudUsingORM.exe.config
+c:\users\welcome\documents\visual studio 2015\Projects\CrudUsingORM\CrudUsingORM\bin\Debug\CrudUsingORM.exe
+c:\users\welcome\documents\visual studio 2015\Projects\CrudUsingORM\CrudUsingORM\bin\Debug\CrudUsingORM.pdb
+c:\users\welcome\documents\visual studio 2015\Projects\CrudUsingORM\CrudUsingORM\bin\Debug\CrudUsingORM.xml
+c:\users\welcome\documents\visual studio 2015\Projects\CrudUsingORM\CrudUsingORM\bin\Debug\EntityFramework.dll
+c:\users\welcome\documents\visual studio 2015\Projects\CrudUsingORM\CrudUsingORM\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\welcome\documents\visual studio 2015\Projects\CrudUsingORM\CrudUsingORM\bin\Debug\EntityFramework.xml
+c:\users\welcome\documents\visual studio 2015\Projects\CrudUsingORM\CrudUsingORM\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\welcome\documents\visual studio 2015\Projects\CrudUsingORM\CrudUsingORM\obj\Debug\CrudUsingORM.Form1.resources
+c:\users\welcome\documents\visual studio 2015\Projects\CrudUsingORM\CrudUsingORM\obj\Debug\CrudUsingORM.Resources.resources
+c:\users\welcome\documents\visual studio 2015\Projects\CrudUsingORM\CrudUsingORM\obj\Debug\CrudUsingORM.vbproj.GenerateResource.Cache
+c:\users\welcome\documents\visual studio 2015\Projects\CrudUsingORM\CrudUsingORM\obj\Debug\CrudUsingORM.exe
+c:\users\welcome\documents\visual studio 2015\Projects\CrudUsingORM\CrudUsingORM\obj\Debug\CrudUsingORM.xml
+c:\users\welcome\documents\visual studio 2015\Projects\CrudUsingORM\CrudUsingORM\obj\Debug\CrudUsingORM.pdb
