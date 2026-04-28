@@ -1,35 +1,39 @@
 # CRUD VB.NET WinForms with Entity Framework (OOP)
 
-A simple CRUD desktop application built using:
+A simple desktop CRUD application built with **VB.NET WinForms** using **Entity Framework 6** and structured with clean **Object-Oriented Programming (OOP)** principles.
+
+---
+
+## 🔗 Repository
+
+👉 GitHub: https://github.com/BrokeCoderZ/CRUD-Entitiy-Framework-OOP
+
+---
+
+## 🧰 Tech Stack
 
 * VB.NET (Windows Forms)
 * .NET Framework 4.0
 * Entity Framework 6 (ORM)
 * SQL Server
-* Clean Architecture (OOP: Repository + Service Layer)
+* OOP (Repository Pattern + Service Layer)
 
 ---
 
-## 📦 Repository
-
-Source code available at:
-https://gitlab.com/PoetralesanA/crudentitiyframework-oop
-
----
-
-## 🚀 How to Run
+## 🚀 Getting Started
 
 ### 1. Clone Repository
 
 ```bash
-git clone https://gitlab.com/PoetralesanA/crudentitiyframework-oop.git
+git clone https://github.com/BrokeCoderZ/CRUD-Entitiy-Framework-OOP.git
+cd CRUD-Entitiy-Framework-OOP
 ```
 
 ---
 
 ### 2. Setup Database
 
-Open SQL Server and execute this script:
+Run the following SQL script in SQL Server:
 
 ```sql
 CREATE DATABASE DbCrudApp;
@@ -51,13 +55,13 @@ CREATE TABLE Products (
 
 ### 3. Configure Connection String
 
-Open:
+Open file:
 
 ```
 App.config
 ```
 
-Update this section according to your SQL Server:
+Update:
 
 ```xml
 <connectionStrings>
@@ -67,7 +71,7 @@ Update this section according to your SQL Server:
 </connectionStrings>
 ```
 
-💡 If `SQLEXPRESS` doesn't work, try:
+💡 Alternative for LocalDB:
 
 ```
 (localdb)\MSSQLLocalDB
@@ -79,7 +83,7 @@ Update this section according to your SQL Server:
 
 In Visual Studio:
 
-* Right click Solution
+* Right-click Solution
 * Click **Restore NuGet Packages**
 
 ---
@@ -96,31 +100,31 @@ F5
 
 ## ✨ Features
 
-* Create, Read, Update, Delete (CRUD)
-* Search by product name
+* CRUD (Create, Read, Update, Delete)
+* Search products by name
 * Input validation
-* Clean OOP structure
+* Clean and maintainable OOP structure
 * Entity Framework integration
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Architecture Overview
 
-This project uses a simple layered architecture:
+This project follows a layered architecture:
 
-* **Models** → Entity classes
-* **Data** → DbContext
-* **Repositories** → Data access abstraction
-* **Services** → Business logic
-* **Forms** → UI layer
+* **Models** → Entity definitions
+* **Data** → DbContext configuration
+* **Repositories** → Data access layer (DAL)
+* **Services** → Business logic layer (BLL)
+* **Forms** → Presentation/UI layer
 
 ---
 
-## ⚠️ Notes
+## 📌 Notes
 
-* Built using Visual Studio 2015
+* Developed using Visual Studio 2015
 * Uses Entity Framework 6.x
-* SQL Server required (Express is enough)
+* Requires SQL Server (Express edition is sufficient)
 
 ---
 
